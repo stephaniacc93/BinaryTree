@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1378800100 source:c:\users\paul andre\documents\codeblocks projects\binarytree\main.c
+	<stdlib.h>
+	<stdio.h>
+
